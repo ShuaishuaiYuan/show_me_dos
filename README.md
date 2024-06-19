@@ -6,7 +6,7 @@ This repository contains a set of Python scripts for analyzing the density of st
 ## Table of Contents
 
 - [Installation](#installation)
-- [Example Usage](#example_usage)
+- [Example Usage](#example-usage)
 - [Contributing](#contributing)
 - [License](#license)
 
